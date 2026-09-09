@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- BANNER / TYPING -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+SAIKUMAR;Product+Security+Engineer;Secure+by+Design+%7C+Shift-Left+%F0%9F%9B%A1%EF%B8%8F;Threat+Modeling+%•+AppSec+%•+CloudSec)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+SAIKUMAR;Student+%F0%9F%8E%93+Aspiring+Product+Security+Engineer;Secure+by+Design+%7C+Shift-Left+%F0%9F%9B%A1%EF%B8%8F;Threat+Modeling+%•+AppSec+%•+CloudSec)](https://git.io/typing-svg)
 
-### 🛡️ Product Security Engineer • AppSec • CloudSec • India 🇮🇳
+### 🎓 Student → Product Security Engineer • AppSec • India 🇮🇳
 
 [![Profile Views](https://komarev.com/ghpvc/?username=student-arch&label=Profile+Views&color=7c3aed&style=flat)](https://github.com/student-arch)
 [![Followers](https://img.shields.io/github/followers/student-arch?label=Followers&style=social)](https://github.com/student-arch?tab=followers)
@@ -17,14 +17,15 @@
 
 ```yaml
 name: SAIKUMAR
-role: Product Security Engineer
+role: Student aspiring to be a Product Security Engineer 🛡️
 location: India 🇮🇳
-focus: [Application Security, Threat Modeling, Secure SDLC, Cloud Security]
+focus: [Application Security, Threat Modeling, Secure SDLC]
 learning: [OWASP Top 10, SAST/DAST, Container Security, Pentesting]
-fun_fact: I break apps so attackers can't 🌙
+fun_fact: I break apps in labs so attackers can't in prod 🌙
 ```
 
-- 🛡️ Focused on **Product Security — AppSec, secure code review, threat modeling**
+- 🎓 I'm a **student working toward Product Security Engineering**
+- 🛡️ Focused on **AppSec, secure code review, threat modeling**
 - 🔭 Currently working on **Cybersecurity_Journey • Priv-Esc notes • Secure coding labs**
 - 🌱 Currently learning **OWASP • Burp Suite • SAST/DAST • Linux Priv-Esc**
 - 👯 Looking to collaborate on **AppSec tooling + secure open-source projects**
@@ -63,7 +64,7 @@ fun_fact: I break apps so attackers can't 🌙
 
 ---
 
-### 🔒 What I Do as a Product Security Engineer
+### 🔒 What I'm Learning as a Future Product Security Engineer
 
 - ✅ **Threat modeling** — STRIDE, attack trees, design reviews
 - 🔍 **Secure code review** — OWASP Top 10, auth, injection, secrets
