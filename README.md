@@ -32,13 +32,18 @@ Currently also working on a personal startup project — building useful product
 - Security Automation & AI Agents
 - Systems Programming & IoT Security
 
-## Skills
+## Technical Skills
 
 | Area | Details |
 |------|---------|
-| Security | OWASP Top 10, Burp Suite, Threat Modeling, Semgrep, Trivy |
-| Languages | Python, C/C++, JavaScript, HTML/CSS, Dart |
-| Systems | Linux, Kali, Networking basics, Docker, Git, GitHub Actions |
+| Programming | C, C++, Python, JavaScript/TypeScript (exposure) |
+| Cybersecurity | Fundamentals, Ethical Hacking Concepts, Cryptography Basics, Phishing Detection, CTF Practice |
+| Operating Systems | Linux (Garuda), Windows |
+| Security Tools | TryHackMe, Nmap, Wireshark, Burp Suite |
+| AI & APIs | LLM API Integration, OpenAI-Compatible APIs, AI Agents, MCP Concepts |
+| Web | React.js, Next.js, Vite, Tailwind CSS, Supabase, Convex |
+| Automation & IoT | Appium, ADB, ESP32, BLE, IoT |
+| Dev Tools | Git, GitHub, OpenSSL |
 
 ## Currently Learning
 
