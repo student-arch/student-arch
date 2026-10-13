@@ -1,7 +1,7 @@
 # SAIKUMAR
-### B.Tech CSE @ SRKR (2028) → Aspiring Product Security Engineer | India
+### CSE Student → Aspiring Product Security Engineer | India
 
-B.Tech Computer Science student focused on cybersecurity, product security, and building practical tools. Interested in how systems work internally, finding weaknesses responsibly, and making technology safer.
+Computer Science student focused on cybersecurity, product security, and building practical tools. Interested in how systems work internally, finding weaknesses responsibly, and making technology safer.
 
 **Open to:** Product Security Intern roles and AppSec collaboration.
 
@@ -9,9 +9,11 @@ B.Tech Computer Science student focused on cybersecurity, product security, and 
 
 ## About Me
 
-I'm a B.Tech Computer Science and Engineering student at **SRKR Engineering College (2028)**, interested in cybersecurity, product security, reverse engineering, Linux systems, and AI-powered automation.
+I'm a Computer Science Engineering student interested in cybersecurity, product security, reverse engineering, Linux systems, and AI-powered automation.
 
 I enjoy exploring operating systems, networking, application security, and AI agents while strengthening my fundamentals in Python, C/C++, Linux, networking, and cryptography.
+
+Currently also working on a personal startup project — building useful products solo, from idea to launch.
 
 ## What I'm Building
 
