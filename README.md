@@ -38,10 +38,7 @@ I am a student working toward Product Security Engineering, focused on secure-by
 
 ## Featured Work
 
-- [Linux-Privilege-Escalation](https://github.com/student-arch/Linux-Privilege-Escalation) — OSCP-oriented priv-esc notes and examples
-- [Windows-Privilege-Escalation](https://github.com/student-arch/Windows-Privilege-Escalation) — Windows priv-esc techniques
-- [Mindmap](https://github.com/student-arch/Mindmap) — Cybersecurity mindmaps for technologies and certifications
-- [lifebridge](https://github.com/student-arch/lifebridge) — Dart / Flutter project
+- [lifebridge](https://github.com/student-arch/lifebridge) — Dart / Flutter project (my own work)
 
 ## Connect
 
