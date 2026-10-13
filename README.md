@@ -49,7 +49,7 @@ Currently also working on a personal startup project — building useful product
 
 ## Featured Work
 
-- [lifebridge](https://github.com/student-arch/lifebridge) — Dart / Flutter project (my own work)
+- [lifebridge](https://github.com/student-arch/lifebridge) — Dart / Flutter project
 
 ## Connect
 
