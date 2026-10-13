@@ -50,6 +50,10 @@ Currently also working on a personal startup project — building useful product
 ## Featured Work
 
 - [lifebridge](https://github.com/student-arch/lifebridge) — Dart / Flutter project
+- **Phishing URL & Website Detector** (private) — dependency-free Python tool for phishing verdicts via URL heuristics + domain reputation (WHOIS, blacklists, SSL, DNS health)
+- **ESP32 BLE Sensor Hub** (private) — multiple ESP32 sensor boards over BLE to a central hub gateway with serial output
+- **Personal AI Computer Agent** (private) — provider-agnostic voice + automation agent with swappable LLM backends
+- **Student AI Super-App** (private) — product docs, PRD, architecture and roadmap for a student learning platform
 
 ## Connect
 
