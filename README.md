@@ -1,7 +1,7 @@
 # SAIKUMAR
 ### CSE Student → Aspiring Product Security Engineer | India
 
-Computer Science student focused on cybersecurity, product security, and building practical tools. Interested in how systems work internally, finding weaknesses responsibly, and making technology safer.
+Computer Science student focused on cybersecurity, product security, and building practical tools. I like understanding how systems work internally, finding weaknesses responsibly, and making technology safer.
 
 **Open to:** Product Security Intern roles and AppSec collaboration.
 
@@ -11,13 +11,11 @@ Computer Science student focused on cybersecurity, product security, and buildin
 
 I'm a Computer Science Engineering student interested in cybersecurity, product security, reverse engineering, Linux systems, and AI-powered automation.
 
-I enjoy exploring operating systems, networking, application security, and AI agents while strengthening my fundamentals in Python, C/C++, Linux, networking, and cryptography.
-
 Currently also working on a personal startup project — building useful products solo, from idea to launch.
 
 ## What I'm Building
 
-- **Scam / Phishing Protection** — exploring detection of phishing, scam calls, and suspicious links on mobile
+- **Scam / Phishing Protection** — detecting phishing, scam calls, and suspicious links on mobile
 - **LifeBridge** — patient-assistance platform connecting people with support
 - **AI Study Tools** — flashcard and learning workflows with configurable AI providers
 - **CampusOne** — student platform for attendance, resources, and campus services
@@ -26,11 +24,13 @@ Currently also working on a personal startup project — building useful product
 ## Focus Areas
 
 - Product & Application Security
-- Reverse Engineering & Malware Analysis (learning)
+- Reverse Engineering & Malware Analysis
+- Threat Hunting
+- Cloud Security
 - Linux Internals & Operating Systems
 - Network Security & Cryptography
 - Security Automation & AI Agents
-- Systems Programming & IoT Security
+- IoT Security & Entrepreneurship
 
 ## Technical Skills
 
@@ -49,7 +49,7 @@ Currently also working on a personal startup project — building useful product
 
 - Secure code review and OWASP Top 10
 - Linux, networking, and cryptography fundamentals
-- SAST / DAST in CI pipelines
+- Threat hunting and cloud security basics
 - Reverse engineering basics
 
 ## Featured Work
@@ -59,6 +59,8 @@ Currently also working on a personal startup project — building useful product
 - **ESP32 BLE Sensor Hub** (private) — multiple ESP32 sensor boards over BLE to a central hub gateway with serial output
 - **Personal AI Computer Agent** (private) — provider-agnostic voice + automation agent with swappable LLM backends
 - **Student AI Super-App** (private) — product docs, PRD, architecture and roadmap for a student learning platform
+
+*Private repos can be demoed or discussed on request.*
 
 ## Connect
 
