@@ -64,6 +64,7 @@ Currently also working on a personal startup project — building useful product
 
 ## Connect
 
+- Portfolio: [saikumar.link](https://saikumar.link)
 - GitHub: [@student-arch](https://github.com/student-arch)
 
 ---
