@@ -1,7 +1,7 @@
 # SAIKUMAR
-### Student → Aspiring Product Security Engineer | AppSec | India
+### B.Tech CSE @ SRKR (2028) → Aspiring Product Security Engineer | India
 
-I am a student working toward Product Security Engineering, focused on secure-by-design development, threat modeling, and shift-left security.
+B.Tech Computer Science student focused on cybersecurity, product security, and building practical tools. Interested in how systems work internally, finding weaknesses responsibly, and making technology safer.
 
 **Open to:** Product Security Intern roles and AppSec collaboration.
 
@@ -9,32 +9,41 @@ I am a student working toward Product Security Engineering, focused on secure-by
 
 ## About Me
 
-- Student building toward **Product Security Engineering**
-- Focus: **Application Security, Secure Code Review, Threat Modeling, Secure SDLC**
-- Currently working on: secure coding labs, privilege-escalation notes, and cybersecurity study repos
-- I break apps in labs so attackers can't in production
+I'm a B.Tech Computer Science and Engineering student at **SRKR Engineering College (2028)**, interested in cybersecurity, product security, reverse engineering, Linux systems, and AI-powered automation.
 
-## Core Focus
+I enjoy exploring operating systems, networking, application security, and AI agents while strengthening my fundamentals in Python, C/C++, Linux, networking, and cryptography.
 
-- **Threat Modeling** — STRIDE, attack trees, design reviews
-- **Secure Code Review** — OWASP Top 10, auth, injection, secrets management
-- **Shift-Left Security** — SAST / DAST / SCA in CI (Semgrep, Trivy, Dependabot)
-- **Cloud & Container Basics** — hardening, least-privilege IAM, image scanning
+## What I'm Building
+
+- **Scam / Phishing Protection** — exploring detection of phishing, scam calls, and suspicious links on mobile
+- **LifeBridge** — patient-assistance platform connecting people with support
+- **AI Study Tools** — flashcard and learning workflows with configurable AI providers
+- **CampusOne** — student platform for attendance, resources, and campus services
+- **Device / Automation Labs** — multi-device connectivity, Appium + Android automation
+
+## Focus Areas
+
+- Product & Application Security
+- Reverse Engineering & Malware Analysis (learning)
+- Linux Internals & Operating Systems
+- Network Security & Cryptography
+- Security Automation & AI Agents
+- Systems Programming & IoT Security
 
 ## Skills
 
 | Area | Details |
 |------|---------|
 | Security | OWASP Top 10, Burp Suite, Threat Modeling, Semgrep, Trivy |
-| Languages (for review) | Python, JavaScript, HTML/CSS, C++, Dart |
-| Platforms & Tools | Linux, Kali, Docker, Git, GitHub Actions, VS Code |
+| Languages | Python, C/C++, JavaScript, HTML/CSS, Dart |
+| Systems | Linux, Kali, Networking basics, Docker, Git, GitHub Actions |
 
 ## Currently Learning
 
-- OWASP Top 10 and secure code review
-- Burp Suite and pentesting fundamentals
+- Secure code review and OWASP Top 10
+- Linux, networking, and cryptography fundamentals
 - SAST / DAST in CI pipelines
-- Linux privilege escalation
+- Reverse engineering basics
 
 ## Featured Work
 
@@ -46,4 +55,4 @@ I am a student working toward Product Security Engineering, focused on secure-by
 
 ---
 
-Ask me about OWASP Top 10, threat modeling, or secure SDLC.
+**Learn deeply. Build practically. Break things ethically. Secure what matters.**
